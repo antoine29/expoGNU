@@ -1,0 +1,28 @@
+
+intro
+  importancia bd
+  intro a las bd, que son
+  bds en la carrera
+
+consola vs ide
+  ventajas de la consola
+  ventajas del ide
+  conclusiones
+
+bd clasicas
+  modelo relacional
+  sql
+  toodos los gestores de bd
+  el castor
+  lets code
+
+bd !sql
+  intro (carac, no son tan nuevas)
+  tipos
+  mongo
+  raios el castor me ha fallado
+  ni modo a codear
+
+conclusiones
+
+fin
